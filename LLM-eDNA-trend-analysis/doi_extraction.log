@@ -1,0 +1,18 @@
+2025-05-28 12:56:39,377 - INFO - Starting DOI metadata extraction at 2025-05-28 12:56:39.377455
+2025-05-28 12:56:39,377 - INFO - Input file: example.txt
+2025-05-28 12:56:39,377 - INFO - Output file: output.csv
+2025-05-28 12:56:39,377 - INFO - Found 50 DOIs to process
+2025-05-28 12:56:48,386 - INFO - Progress: 10/50 (20.0%) - Success: 0, Failed: 0
+2025-05-28 12:56:58,397 - INFO - Progress: 20/50 (40.0%) - Success: 0, Failed: 0
+2025-05-28 12:57:08,406 - INFO - Progress: 30/50 (60.0%) - Success: 0, Failed: 0
+2025-05-28 12:57:18,416 - INFO - Progress: 40/50 (80.0%) - Success: 0, Failed: 0
+2025-05-28 12:57:28,426 - INFO - Progress: 50/50 (100.0%) - Success: 0, Failed: 0
+2025-05-28 12:57:29,428 - INFO - ==================================================
+2025-05-28 12:57:29,428 - INFO - EXTRACTION COMPLETE
+2025-05-28 12:57:29,428 - INFO - Total DOIs processed: 50
+2025-05-28 12:57:29,428 - INFO - Successful extractions: 0
+2025-05-28 12:57:29,428 - INFO - Failed extractions: 0
+2025-05-28 12:57:29,428 - INFO - Success rate: 0.0%
+2025-05-28 12:57:29,428 - INFO - Total time: 0:00:50.050932
+2025-05-28 12:57:29,428 - INFO - Data saved to: output.csv
+2025-05-28 12:57:29,428 - INFO - ==================================================
