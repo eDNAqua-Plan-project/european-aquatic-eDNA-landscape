@@ -2,7 +2,6 @@ from Bio import Entrez
 import csv
 import time
 
-# Set your email here as required by NCBI
 Entrez.email = "camila.babo@cibio.up.pt"
 
 def get_pmid_from_doi(doi):
